@@ -1,5 +1,8 @@
 # Pizza Sales Data Analysis
 
+![Sales_Pizza_banner](https://github.com/user-attachments/assets/93b46a36-827f-458b-91a3-c1e10d1f7750)
+
+
 ## Project Overview
 
 The **Pizza Sales Data Analysis** project involves building and analyzing a relational database, **pizza\_db**, to gain insights into the sales trends of a fictional pizza business. This analysis leverages SQL queries to uncover patterns, optimize decision-making, and improve business strategies.
